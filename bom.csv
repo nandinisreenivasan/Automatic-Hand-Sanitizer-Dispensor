@@ -1,0 +1,12 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"Rpotvolume control",1,"250 kΩ Potentiometer"
+"Mwater pump",1," DC Motor"
+"T1",1," NPN Transistor (BJT)"
+"USensor",1," Photodiode"
+"P1",1,"12 , 5  Power Supply"
+"D1",1,"White LED"
+"D2, D3",2,"Red LED"
+"R1",1,"220 Ω Resistor"
+"R2",1,"100 Ω Resistor"
+"R3, R4",2,"1 kΩ Resistor"
